@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Don't publish source dataset unless redistribution is permitted
+data/CRISPR_Modeling_Data.xlsx
